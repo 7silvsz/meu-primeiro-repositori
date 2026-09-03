@@ -1,0 +1,5 @@
+Git é utilizado para controlar versões de arquivos.
+
+GitHub permite armazenar repositórios online.
+
+Commits registram alterações realizadas em um projeto.
